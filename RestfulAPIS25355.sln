@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{D3A10B66-89AA-41E4-AD75-59CF1BA7FDDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestfulAPI", "RestfulAPI\RestfulAPI.csproj", "{D3A10B66-89AA-41E4-AD75-59CF1BA7FDDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
